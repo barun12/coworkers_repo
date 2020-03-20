@@ -1,0 +1,4 @@
+[submodule "newrepo"]
+	path = newrepo
+	url = git@github.com:barun12/newrepo.git
+	branch = master
